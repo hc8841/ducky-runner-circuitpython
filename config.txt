@@ -1,2 +1,2 @@
-keyboard_layout_win_br
+keyboard_layout_YOUR_LAYOUT_FILE_HERE
 3000
