@@ -22,7 +22,7 @@ Com feedback visual por LED, logs completos e suporte a múltiplos layouts de te
 
 - **Opção 1 (Git):**  
   ```bash
-  git clone https://github.com/seu-usuario/ducky-runner-circuitpython.git
+  git clone https://github.com/hc8841/ducky-runner-circuitpython.git
   ```
 
 
