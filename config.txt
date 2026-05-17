@@ -1,0 +1,2 @@
+keyboard_layout_win_br
+3000
